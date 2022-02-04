@@ -165,7 +165,6 @@ async def rnd(ctx, min, max):
 
 
 ### FLAGS GAME ###
-
 # HELPERS
 COMPONENTS = [[Button(label="Reroll"),
                Button(label="Verify")],
